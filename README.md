@@ -11,9 +11,7 @@
   - hybrid (electric and ICE) propulsion for general aviation aircraft
   - real estate titles on blockchain projects (between smart contracts and NFTs, we have no excuse for using centuries old procedures to transfer ownership of real estate between each other)
   - something interesting making machine learning run on old (affordable) hardware.
-- Reach me @ 
-  - 5152570627 (voice or text) 
-  - me@bitcointroy.co
+- Reach me @ githubReadme@bitcointroy.co
 
 <!---
 bitcointroy/bitcointroy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
